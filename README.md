@@ -1,4 +1,6 @@
 # ArogyaAI
+
+
 Arogya.ai is the right answer to help ease the existing challenges that occurs in Indonesian healthcare industry by optimizing inventory and order management system through advance technology.
 ​
 It was something beyond imagination to integrate AI into our hospital system until Arogya.ai come and offer their solution to us.
@@ -47,4 +49,38 @@ As the CEO, one of teaching hospitals in Indonesia, I believe that Arogya.ai hav
 
 
 ![image](https://github.com/Rohitrt8/ArogyaAI/assets/132551994/e235e202-6b85-4d4b-8c75-748e351a291f)
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+**Market Analysis**
+
+
+
+
+
+
+![image](https://github.com/Rohitrt8/ArogyaAI/assets/132551994/e54047da-a019-4748-9a5b-21965013c0da)
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 
